@@ -1,1 +1,1 @@
-# timeseries_predict_electricity_Python
+# 基于电力大数据的乡村振兴指数分析模型产品
